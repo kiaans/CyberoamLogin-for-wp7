@@ -1,0 +1,11 @@
+c:\users\sumeet\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sumeet\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\App.g.i.cs
+c:\users\sumeet\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.i.cs
+c:\users\sumeet\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+c:\users\sumeet\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml
+C:\Users\Sumeet\Documents\Visual Studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Cyberoam Login.xap
+C:\Users\Sumeet\Documents\Visual Studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\CyberoamLogin.dll
+C:\Users\Sumeet\Documents\Visual Studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\CyberoamLogin.pdb
+C:\Users\Sumeet\Documents\Visual Studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\CyberoamLogin.g.resources
+C:\Users\Sumeet\Documents\Visual Studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\CyberoamLogin.dll
+C:\Users\Sumeet\Documents\Visual Studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\CyberoamLogin.pdb
